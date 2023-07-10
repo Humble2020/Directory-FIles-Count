@@ -1,0 +1,12 @@
+c:\users\dell\documents\visual studio 2013\Projects\FilesCOunt\FilesCOunt\bin\Debug\FilesCOunt.exe
+c:\users\dell\documents\visual studio 2013\Projects\FilesCOunt\FilesCOunt\bin\Debug\FilesCOunt.pdb
+c:\users\dell\documents\visual studio 2013\Projects\FilesCOunt\FilesCOunt\bin\Debug\FilesCOunt.xml
+c:\users\dell\documents\visual studio 2013\Projects\FilesCOunt\FilesCOunt\bin\Debug\Interop.Scripting.dll
+c:\users\dell\documents\visual studio 2013\Projects\FilesCOunt\FilesCOunt\obj\Debug\Interop.Scripting.dll
+c:\users\dell\documents\visual studio 2013\Projects\FilesCOunt\FilesCOunt\obj\Debug\FilesCOunt.vbproj.ResolveComReference.cache
+c:\users\dell\documents\visual studio 2013\Projects\FilesCOunt\FilesCOunt\obj\Debug\FilesCOunt.Form1.resources
+c:\users\dell\documents\visual studio 2013\Projects\FilesCOunt\FilesCOunt\obj\Debug\FilesCOunt.Resources.resources
+c:\users\dell\documents\visual studio 2013\Projects\FilesCOunt\FilesCOunt\obj\Debug\FilesCOunt.vbproj.GenerateResource.Cache
+c:\users\dell\documents\visual studio 2013\Projects\FilesCOunt\FilesCOunt\obj\Debug\FilesCOunt.exe
+c:\users\dell\documents\visual studio 2013\Projects\FilesCOunt\FilesCOunt\obj\Debug\FilesCOunt.xml
+c:\users\dell\documents\visual studio 2013\Projects\FilesCOunt\FilesCOunt\obj\Debug\FilesCOunt.pdb
